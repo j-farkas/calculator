@@ -1,3 +1,26 @@
-#story{
-  display: none;
+.col-sm-3
+{
+  border:1px solid black;
+  height: 70px;
+  line-height:70px;
+}
+
+.row{
+  width: 280px;
+}
+.result{
+  text-align:right;
+}
+
+.col-sm-6
+{
+  line-height:70px;
+  border:1px solid black;
+  height:70px;
+}
+
+.result {
+  line-height:70px;
+  border:1px solid black;
+  height:70px;
 }
